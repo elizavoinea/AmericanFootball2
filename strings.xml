@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AmericanFootball</string>
+    <string name = "teamA" >Team A</string>
+    <string name = "teamB" >Team B</string>
+    <string name="onepoints">+1 points</string>
+    <string name="twoPoints">+2 Points</string>
+    <string name="Touchdown">Touchdown (+6 POINTS)</string>
+    <string name="FieldGoal">Field Goal  (+3 POINTS)</string>
+    <string name="zero">0</string>
+    <string name="reset">Reset</string>
+    <string name="WINNER">WINNER</string>
+
+</resources>
